@@ -15,26 +15,9 @@
 ## 🛠 Tech Stack
 
 ## 🛠 Tech Stack  
-
 **Programming Languages**  
-![Java](https://img.shields.io/badge/Java-Intermediate-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-Intermediate-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-Oracle/MySQL-%2300f.svg?style=for-the-badge&logo=database&logoColor=white)  
+[![Java](https://img.shields.io/badge/Java-HelloWorld-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/files/java.html)
 
-**Frameworks & Libraries**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Basic-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Beginner-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-
-**Tools & Software**  
-![MS Office](https://img.shields.io/badge/MS%20Office-Advanced-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
-![AutoCAD](https://img.shields.io/badge/AutoCAD-Intermediate-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  
-
-
-**Programming Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
