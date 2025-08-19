@@ -52,7 +52,7 @@ Contributed to project execution and enhanced technical knowledge.
 ---
 
 ## 🏆 Certifications
-[![AI Tools](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/your-username/your-username/blob/main/certificates/AI TOOLS AND CHATGPT WORKSHOP.pdf)– Certificate of Completion Award: *AI Tools and ChatGPT Workshop* 
+[![AI Tools](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DEVADHARSHINI-K/DEVADHARSHINI-K/blob/main/certificates/AI TOOLS AND CHATGPT WORKSHOP.pdf)– Certificate of Completion Award: *AI Tools and ChatGPT Workshop* 
 [![Android App Development](https://img.shields.io/badge/Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/your-username/your-username/blob/main/certificates/ANDROID APP DEVELOPMENT CERTIFICATE.pdf) - – *Android App Development for Beginners*  
 ![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white) – *Introduction to Graphic Design: Basics of UI/UX*  
 ![RPA](https://img.shields.io/badge/Robotics%20Process%20Automation-4285F4?style=for-the-badge&logo=google&logoColor=white) – *Naan Mudhalvan – RPA Foundation Course*  
