@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Devadharshini Kumaran  
-🚀 Full Stack Developer in Progress | Strong Foundation in Java, Web Technologies & SQL | Civil Engineer turned Software Developer
+🚀 Full Stack Developer in Progress | Strong Foundation in Java, Web Technologies & SQL | Civil Engineer turned Software Developer  
 
 ---
 
@@ -9,6 +9,21 @@
 - 🌐 Passionate about **Web Development & Software Development** with strong problem-solving skills.  
 - ⚡ Dedicated to delivering efficient and reliable software solutions.  
 - 🎯 Actively seeking opportunities in **Full Stack Development** to grow and contribute in a dynamic organization.  
+
+---
+
+## 🎓 Education
+- **B.E. Civil Engineering (2021 – 2025)**  
+  Meenakshi Sundararajan Engineering College, Chennai  
+  CGPA: **8.86**  
+
+- **Higher Secondary Education (2020 – 2021)**  
+  DAV Matric Higher Secondary School, Chennai  
+  Percentage: **94%**  
+
+- **SSLC (2018 – 2019)**  
+  DAV Matric Higher Secondary School, Chennai  
+  Percentage: **89.8%**  
 
 ---
 
@@ -22,8 +37,8 @@
 
 **Software**  
 [![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/SOFTWARE/MS-OFFICE/ms-office.html)
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/SOFTWARE/AUTOCAD/autocad.html)
-  
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/SOFTWARE/AUTOCAD/autocad.html)  
+
 ---
 
 ## 🌱 Featured Project
@@ -62,6 +77,20 @@ An innovative **Soil Monitoring and Automated Recommendation Tool** integrating 
 
 ---
 
+## 🌐 Languages Known
+- **English** – Professional Proficiency  
+- **Tamil** – Native / Bilingual  
+- **Hindi** – Elementary  
+
+---
+
+## 🎨 Interests
+- Drawing & Painting 🎨  
+- Craft Work ✂️  
+- Exploring New Technologies 💡  
+
+---
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devadharshini-kumaran-46324329b)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devadharshinikumaran388@gmail.com)  
@@ -69,4 +98,4 @@ An innovative **Soil Monitoring and Automated Recommendation Tool** integrating 
 
 ---
 
-✨ *“Committed to building impactful solutions through code, precision, and creativity.”* ✨
+✨ *“Committed to building impactful solutions through code, precision, and creativity.”* ✨  
