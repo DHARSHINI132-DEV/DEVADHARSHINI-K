@@ -5,75 +5,235 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>HTML Skills – Devadharshini Kumaran</title>
   <style>
+    html {
+      scroll-behavior: smooth;
+    }
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       margin: 0;
       background: linear-gradient(135deg, #1f1c2c, #928dab);
       color: #f4f4f4;
+      animation: fadeIn 2s ease;
+    }
+    @keyframes fadeIn {
+      from {opacity: 0;}
+      to {opacity: 1;}
     }
     header {
       background: linear-gradient(90deg, #E34F26, #FF6A00);
-      padding: 30px;
+      padding: 40px;
       text-align: center;
       color: #fff;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+      animation: slideDown 1.5s ease;
+      position: relative;
+    }
+    @keyframes slideDown {
+      from {transform: translateY(-100%); opacity: 0;}
+      to {transform: translateY(0); opacity: 1;}
     }
     header h1 {
       margin: 0;
-      font-size: 2.5em;
+      font-size: 3em;
+      text-shadow: 2px 2px 12px rgba(0,0,0,0.7);
+      animation: glow 2s infinite alternate;
+    }
+    @keyframes glow {
+      from {text-shadow: 0 0 10px #FFB347, 0 0 20px #FF6A00;}
+      to {text-shadow: 0 0 20px #E34F26, 0 0 40px #FF6A00;}
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+      display: inline-block;
+      white-space: nowrap;
+      font-weight: bold;
+      background: linear-gradient(270deg, #fff, #FFB347, #FF6A00, #fff);
+      background-size: 600% 600%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: gradientWave 6s ease infinite;
+    }
+    @keyframes gradientWave {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
     }
     section {
-      max-width: 850px;
+      max-width: 950px;
       margin: 40px auto;
       background: rgba(0,0,0,0.65);
-      padding: 25px;
-      border-radius: 12px;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.6);
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.7);
     }
     h2 {
       color: #FFB347;
-      border-bottom: 2px solid #FFB347;
-      padding-bottom: 5px;
+      border-bottom: 3px solid #FFB347;
+      padding-bottom: 6px;
+      text-transform: uppercase;
+      position: relative;
+      transition: color 0.3s ease, letter-spacing 0.3s ease;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 1s ease forwards;
     }
-    ul li {
-      margin: 8px 0;
+    h2:hover {
+      color: #FF6A00;
+      letter-spacing: 2px;
+    }
+    @keyframes fadeUp {
+      to {opacity: 1; transform: translateY(0);}
+    }
+    details {
+      margin: 12px 0;
+      background: rgba(255,255,255,0.05);
+      padding: 14px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: transform 0.4s ease, background 0.4s ease, box-shadow 0.4s ease;
+    }
+    details:hover {
+      transform: translateX(12px);
+      background: rgba(255,165,0,0.2);
+      box-shadow: 0 0 12px rgba(255,165,0,0.6);
+    }
+    summary {
+      font-weight: bold;
+      font-size: 1.2em;
+      color: #FFB347;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    summary:hover {
+      color: #FF6A00;
+    }
+    details ul {
+      margin-top: 10px;
+      padding-left: 20px;
+      max-height: 0;
+      opacity: 0;
+      overflow: hidden;
+      transition: all 0.5s ease;
+    }
+    details[open] ul {
+      max-height: 600px;
+      opacity: 1;
+    }
+    li {
+      transition: transform 0.3s ease, color 0.3s ease;
+      padding: 4px 0;
+    }
+    li:hover {
+      transform: translateX(8px);
+      color: #FFB347;
+    }
+    .badge {
+      background: #E34F26;
+      color: #fff;
+      font-size: 0.7em;
+      padding: 2px 6px;
+      border-radius: 5px;
+      margin-left: 8px;
     }
     a.btn {
       display: inline-block;
-      padding: 12px 20px;
-      margin-top: 20px;
+      padding: 14px 22px;
+      margin-top: 25px;
       background: linear-gradient(90deg, #E34F26, #FF6A00);
       color: white;
       text-decoration: none;
-      border-radius: 8px;
+      border-radius: 10px;
       font-weight: bold;
       transition: 0.3s;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.5);
     }
     a.btn:hover {
       background: linear-gradient(90deg, #FF6A00, #E34F26);
-      transform: scale(1.05);
+      transform: scale(1.12);
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>HTML</h1>
-    <p>Web Structure | Semantic Tags | Forms</p>
+    <h1>HTML Skills</h1>
+    <p>Web Structure | Semantic Tags | Forms | Multimedia | Tables</p>
   </header>
+
   <section>
     <h2>About My HTML Skills</h2>
     <p>I am proficient in crafting semantic, accessible, and responsive webpages using HTML, ensuring both structure and clarity.</p>
+
     <h2>Highlights</h2>
     <ul>
-      <li>Strong knowledge of semantic tags for SEO(Search Engine Optimization) and accessibility</li>
+      <li>Strong knowledge of semantic tags for SEO and accessibility</li>
       <li>Experience with forms, input validation, and multimedia integration</li>
       <li>Ability to build clean and responsive layouts with proper structure</li>
-      <li>Practical projects such as personal portfolio pages and landing pages</li>
+      <li>Practical projects such as portfolio pages, landing pages, and forms</li>
     </ul>
+
+    <h2>Topics Covered</h2>
+    <details>
+      <summary>📘 Basics</summary>
+      <ul>
+        <li>Introduction to HTML <span class="badge">HTML</span></li>
+        <li>Headings <span class="badge">HTML</span></li>
+        <li>Paragraphs & Text Formatting <span class="badge">HTML</span></li>
+        <li>Elements & Attributes <span class="badge">HTML</span></li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>🖼️ Media</summary>
+      <ul>
+        <li>Images <span class="badge">HTML</span></li>
+        <li>Marquee <span class="badge">HTML</span></li>
+        <li>Multimedia (Audio, Video) <span class="badge">HTML</span></li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>📋 Structures</summary>
+      <ul>
+        <li>Lists (Ordered, Unordered, Definition) <span class="badge">HTML</span></li>
+        <li>Tables <span class="badge">HTML</span></li>
+        <li>Timetable Project <span class="badge">HTML</span></li>
+        <li>Div & Layouts <span class="badge">HTML</span></li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>🔗 Links & Navigation</summary>
+      <ul>
+        <li>Anchor Tag <span class="badge">HTML</span></li>
+        <li>Navigation Links <span class="badge">HTML</span></li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>📝 Forms</summary>
+      <ul>
+        <li>Form Structure <span class="badge">HTML</span></li>
+        <li>Input Types <span class="badge">HTML</span></li>
+        <li>Labels & Fieldsets <span class="badge">HTML</span></li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>🏷️ Semantic & Advanced</summary>
+      <ul>
+        <li>Semantic Tags (header, footer, section, article, nav) <span class="badge">HTML</span></li>
+        <li>SEO(Search Engine Optimization) Best Practices <span class="badge">HTML</span></li>
+        <li>Accessibility in HTML <span class="badge">HTML</span></li>
+      </ul>
+    </details>
+
     <h2>Development Tools</h2>
     <ul>
-      <li>Visual Studio Code</li>
+      <li>Visual Studio Code <span class="badge">IDE</span></li>
     </ul>
+
     <a class="btn" href="https://dharshini135-dev.github.io/DEVADHARSHINI-K/">⬅ Back to Profile</a>
   </section>
 </body>
