@@ -1,68 +1,84 @@
-## Hi, I'm Devadharshini Kumaran  
-🚀 Full Stack Developer in Progress | Strong foundation in Java, Web Technologies & SQL | Civil Engineer turned Software Developer
- 
-## About Me
-- Completed **B.E. Civil Engineering** from Meenakshi Sundararajan Engineering College with **CGPA: 8.86**.
-- Currently undergoing training in **Java Full Stack Development** at QSpiders.
-- Passionate about **Web Development and Software Development** with strong problem-solving skills.
-- Dedicated to applying technical expertise to deliver efficient and reliable software solutions.
-- Actively seeking opportunities in **Full Stack Development** to contribute and grow in a dynamic organization.
+## 👋 Hi, I'm Devadharshini Kumaran  
+🚀 Full Stack Developer in Progress | Strong Foundation in Java, Web Technologies & SQL | Civil Engineer turned Software Developer
+
+---
+
+## 📖 About Me
+- 🎓 Completed **B.E. Civil Engineering** from *Meenakshi Sundararajan Engineering College* with **CGPA: 8.86**.  
+- 💻 Currently undergoing training in **Java Full Stack Development** at QSpiders.  
+- 🌐 Passionate about **Web Development & Software Development** with strong problem-solving skills.  
+- ⚡ Dedicated to delivering efficient and reliable software solutions.  
+- 🎯 Actively seeking opportunities in **Full Stack Development** to grow and contribute in a dynamic organization.  
 
 ---
 
 ## 🛠 Tech Stack
-- **Programming Languages:**  
+
+## 🛠 Tech Stack  
+
+**Programming Languages**  
+![Java](https://img.shields.io/badge/Java-Intermediate-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-Intermediate-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-Oracle/MySQL-%2300f.svg?style=for-the-badge&logo=database&logoColor=white)  
+
+**Frameworks & Libraries**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Basic-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Beginner-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+
+**Tools & Software**  
+![MS Office](https://img.shields.io/badge/MS%20Office-Advanced-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Intermediate-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  
+
+
+**Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)   
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-- **Tools & Software:**  
+**Tools & Software**  
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  
 
 ---
 
-## 📂 Featured Project
-### 🌱 [S.M.A.R.T Testing System](https://github.com/your-username/SMART-Testing-System)  
+## 🌱 Featured Project
+### [S.M.A.R.T Testing System](https://github.com/your-username/SMART-Testing-System)  
 An innovative **Soil Monitoring and Automated Recommendation Tool** integrating **Arduino, IoT, and sensor-based data** to assist in safe foundation selection.
 
-**S.M.A.R.T stands for:**
+**S.M.A.R.T stands for:**  
 - **S – Selection:** Suggests the most suitable type of foundation based on soil characteristics.  
-- **M – Monitoring:** Continuously tracks soil parameters such as load, moisture, temperature, settlement, and tilt.  
-- **A – Alerting:** Provides instant alerts through GSM when unsafe or abnormal conditions are detected.  
-- **R – Realistic:** Ensures practical, reliable, and real-time soil testing for construction decision-making.  
-- **T – Time-based Machine Learning Models:** Predicts **Safe Bearing Capacity (SBC)** using ML algorithms to improve safety and efficiency.  
+- **M – Monitoring:** Continuously tracks soil parameters (load, moisture, temperature, settlement, tilt).  
+- **A – Alerting:** Provides instant alerts through GSM when unsafe/abnormal conditions are detected.  
+- **R – Realistic:** Ensures practical, reliable, real-time soil testing for construction decision-making.  
+- **T – Time-based ML Models:** Predicts **Safe Bearing Capacity (SBC)** using ML algorithms.  
 
-*“This project bridges engineering principles with modern software technologies, ensuring safer, data-driven foundation decisions for the future of construction.”*
+*💡 This project bridges civil engineering principles with modern software technologies to ensure safer, data-driven construction decisions.*  
 
 ---
 
 ## 💼 Experience
 - **QSpiders – Java Full Stack Training (2025–Present)**  
-Hands-on training in Java, SQL, HTML, CSS, JavaScript, and Full Stack concepts.  
+  Hands-on training in Java, SQL, HTML, CSS, JavaScript, and Full Stack concepts.  
 
 - **Chennai Port Internship (Jul 2024 – Aug 2024)**  
-Gained exposure to port infrastructure management.  
+  Gained exposure to port infrastructure management.  
 
 - **L&T Metro Rail Project (Jun 2023 – Jul 2023)**  
-Contributed to project execution and enhanced technical knowledge.  
+  Contributed to project execution and enhanced technical knowledge.  
 
 ---
 
 ## 🏆 Certifications
-
-[![AI Tools and ChatGpt Workshop](https://img.shields.io/badge/AI%20Tools%20and%20ChatGpt%20Workshop-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)
-
+[![AI Tools and ChatGpt Workshop](https://img.shields.io/badge/AI%20Tools%20and%20ChatGpt%20Workshop-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)  
 [![Android App Development for Beginners](https://img.shields.io/badge/Android%20App%20Development%20for%20Beginners-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/android-app.pdf)  
-
-[![Introduction to Graphic Design: Basics of UI/UX](https://img.shields.io/badge/Introduction%20to%20Graphic%20Design%20Basics%20of%20UI%2FUX-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/uiux.pdf)
-
+[![Introduction to Graphic Design Basics of UI/UX](https://img.shields.io/badge/Introduction%20to%20Graphic%20Design%20Basics%20of%20UI%2FUX-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/uiux.pdf)  
 [![Robotic Process Automation Development](https://img.shields.io/badge/Robotic%20Process%20Automation%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/robotic.pdf)  
-
-[![GATE 2024](https://img.shields.io/badge/GATE%202024%20Certificate-FF5722?style=for-the-badge&logo=gradle&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/gate.png)  
-
+[![GATE 2024 Certificate](https://img.shields.io/badge/GATE%202024%20Certificate-FF5722?style=for-the-badge&logo=gradle&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/gate.png)  
 
 ---
 
@@ -73,4 +89,4 @@ Contributed to project execution and enhanced technical knowledge.
 
 ---
 
-✨ *“Committed to building impactful solutions through code, precision, and creativity.”* ✨  
+✨ *“Committed to building impactful solutions through code, precision, and creativity.”* ✨
