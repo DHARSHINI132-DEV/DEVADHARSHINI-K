@@ -16,7 +16,7 @@
 
 ## 🛠 Tech Stack  
 **Programming Languages**  
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/java.html)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/skills/java.html)
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/html.html)
 
