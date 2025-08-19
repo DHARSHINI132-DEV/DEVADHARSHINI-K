@@ -14,15 +14,15 @@
 
 ## 🛠 Tech Stack  
 **Programming Languages**  
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/skills/java.html)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/skills/html.html)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/skills/css.html)
-[![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/skills/sql.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/skills/js.html)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/PROGRAMMING/JAVA/java.html)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/PROGRAMMING/HTML/html.html)
+[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/PROGRAMMING/CSS/css.html)
+[![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/PROGRAMMING/SQL/sql.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/PROGRAMMING/JAVASCRIPT/javascript.html)
 
-**Tools & Software**  
-[![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/skills/ms.html)
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/skills/autocad.html)
+**Software**  
+[![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/SOFTWARE/MS-OFFICE/ms-office.html)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)](https://dharshini132-dev.github.io/DEVADHARSHINI-K/SKILLS/SOFTWARE/AUTOCAD/autocad.html)
   
 ---
 
