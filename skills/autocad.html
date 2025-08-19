@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AutoCAD Skills – Devadharshini Kumaran</title>
+  <style>
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: radial-gradient(circle at 20% 0%, #f0f0f0, #dcdcdc 60%, #c9c9c9 90%);
+      color: #222;
+      animation: fadeIn 1.4s ease;
+    }
+    @keyframes fadeIn { from {opacity: 0;} to {opacity: 1;} }
+
+    header {
+      background: linear-gradient(90deg, #004B87, #0078D7);
+      padding: 40px;
+      text-align: center;
+      color: #fff;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+      animation: slideDown 1.2s ease;
+    }
+    @keyframes slideDown {
+      from { transform: translateY(-80px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+      text-shadow: 0 4px 14px rgba(0,0,0,0.35);
+    }
+    header p {
+      font-size: 1.1em;
+      margin-top: 12px;
+      font-weight: 600;
+      background: linear-gradient(270deg, #ffffff, #87CEFA, #00BFFF, #ffffff);
+      background-size: 600% 600%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: wave 6s ease infinite;
+      white-space: nowrap;
+    }
+    @keyframes wave {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      background: rgba(255,255,255,0.9);
+      padding: 26px;
+      border-radius: 14px;
+      box-shadow: 0 6px 22px rgba(0,0,0,0.25);
+      opacity: 0;
+      transform: translateY(40px);
+      animation: fadeUp 1s ease forwards;
+    }
+    @keyframes fadeUp {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    h2 {
+      color: #004B87;
+      border-bottom: 3px solid #004B87;
+      padding-bottom: 6px;
+      margin-top: 10px;
+      text-transform: uppercase;
+      opacity: 0;
+      animation: fadeLeft 1s ease forwards;
+    }
+    @keyframes fadeLeft {
+      from { transform: translateX(-40px); opacity: 0; }
+      to { transform: translateX(0); opacity: 1; }
+    }
+
+    ul li {
+      margin: 6px 0;
+      opacity: 0;
+      animation: fadeInList 0.8s ease forwards;
+    }
+    ul li:nth-child(1) { animation-delay: 0.3s; }
+    ul li:nth-child(2) { animation-delay: 0.5s; }
+    ul li:nth-child(3) { animation-delay: 0.7s; }
+    ul li:nth-child(4) { animation-delay: 0.9s; }
+    @keyframes fadeInList {
+      from { opacity: 0; transform: translateY(15px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    a.btn {
+      display: inline-block;
+      padding: 12px 20px;
+      margin-top: 22px;
+      background: linear-gradient(90deg, #0078D7, #004B87);
+      color: #fff;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: 700;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.35);
+      transition: transform .25s ease, filter .25s ease;
+      animation: pulse 2s infinite;
+    }
+    a.btn:hover { transform: scale(1.08); filter: brightness(1.1); }
+    @keyframes pulse {
+      0%, 100% { box-shadow: 0 0 10px #0078D7, 0 0 20px #004B87; }
+      50% { box-shadow: 0 0 20px #00BFFF, 0 0 30px #004B87; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AutoCAD Skills</h1>
+    <p>Basics of Drafting · Layers · Dimensions</p>
+  </header>
+
+  <section>
+    <h2>About My AutoCAD Skills</h2>
+    <p>I have a basic understanding of AutoCAD and can use it for simple 2D drafting and drawing tasks. I am familiar with the essentials of creating and modifying drawings.</p>
+
+    <h2>Highlights</h2>
+    <ul>
+      <li>Creating simple 2D drawings</li>
+      <li>Using basic modification tools (move, copy, trim)</li>
+      <li>Working with layers to organize drawings</li>
+      <li>Adding basic dimensions and text</li>
+    </ul>
+
+    <h2>Basic Topics Covered</h2>
+    <ul>
+      <li>📐 Drawing tools: Line, Circle, Rectangle</li>
+      <li>✂️ Modify tools: Erase, Trim, Offset</li>
+      <li>📑 Layers: Creating and managing simple layers</li>
+      <li>🔢 Annotations: Adding text and dimensions</li>
+    </ul>
+
+    <h2>Tools</h2>
+    <ul>
+      <li>AutoCAD (Basic Use)</li>
+    </ul>
+
+    <a class="btn" href="../README.md">⬅ Back</a>
+  </section>
+</body>
+</html>
