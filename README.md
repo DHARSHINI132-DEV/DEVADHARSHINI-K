@@ -53,15 +53,16 @@ Contributed to project execution and enhanced technical knowledge.
 
 ## 🏆 Certifications
 
-[![AI Tools and ChatGpt Workshop](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)
+[![AI Tools and ChatGpt Workshop](https://img.shields.io/badge/AI%20Tools%20and%20ChatGpt%20Workshop-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)
 
-[![Android App Development for Beginners](https://img.shields.io/badge/Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/android-app.pdf)  
+[![Android App Development for Beginners](https://img.shields.io/badge/Android%20App%20Development%20for%20Beginners-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/android-app.pdf)  
 
-[![Introduction to Graphic Design: Basics of UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/uiux.pdf)
+[![Introduction to Graphic Design: Basics of UI/UX](https://img.shields.io/badge/Introduction%20to%20Graphic%20Design%20Basics%20of%20UI%2FUX-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/uiux.pdf)
 
-[![Robotic Process Automation Development](https://img.shields.io/badge/Robotics%20Process%20Automation-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/robotic.pdf)  
+[![Robotic Process Automation Development](https://img.shields.io/badge/Robotic%20Process%20Automation%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/robotic.pdf)  
 
-[![GATE 2024](https://img.shields.io/badge/GATE%202024-FF5722?style=for-the-badge&logo=gradle&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/gate.png) 
+[![GATE 2024](https://img.shields.io/badge/GATE%202024%20Certificate-FF5722?style=for-the-badge&logo=gradle&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/gate.png)  
+
 
 ---
 
