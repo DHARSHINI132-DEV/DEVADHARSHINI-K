@@ -16,7 +16,20 @@
 
 ## 🛠 Tech Stack  
 **Programming Languages**  
-[![Java](https://img.shields.io/badge/Java-HelloWorld-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/files/java.html)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/java.html)
+
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/html.html)
+
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/css.html)
+
+[![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/sql.html)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/javascript.html)
+
+[![Servlets & JSP](https://img.shields.io/badge/Servlets%20%26%20JSP-2F4F4F?style=for-the-badge&logo=java&logoColor=white)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/servlets-jsp.html)
+
+
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
