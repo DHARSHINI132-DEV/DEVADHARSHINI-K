@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JavaScript Skills – Devadharshini Kumaran</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: linear-gradient(135deg, #2c3e50, #8e44ad);
+      color: #f0f0f0;
+      animation: fadeIn 2s ease;
+    }
+    @keyframes fadeIn { from {opacity:0;} to {opacity:1;} }
+
+    header {
+      background: linear-gradient(90deg, #e67e22, #d35400);
+      padding: 40px;
+      text-align: center;
+      color: #fff;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+      text-shadow: 2px 2px 12px rgba(0,0,0,0.7);
+      animation: glow 2s infinite alternate;
+    }
+    @keyframes glow {
+      from {text-shadow: 0 0 10px #f39c12, 0 0 20px #f39c12;}
+      to {text-shadow: 0 0 20px #e67e22, 0 0 40px #d35400;}
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+      display: inline-block;
+      color: #fff;
+      animation: waveText 3s ease-in-out infinite;
+    }
+    @keyframes waveText {
+      0%,100% { transform: translateY(0);}
+      50% { transform: translateY(-8px);}
+    }
+
+    section {
+      max-width: 950px;
+      margin: 40px auto;
+      background: rgba(0,0,0,0.6);
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.7);
+      animation: zoomIn 1.5s ease;
+    }
+    @keyframes zoomIn { from {transform: scale(0.8); opacity:0;} to {transform: scale(1); opacity:1;} }
+
+    h2 {
+      color: #e67e22;
+      border-bottom: 3px solid #e67e22;
+      padding-bottom: 6px;
+      transition: color 0.3s ease, letter-spacing 0.3s ease;
+      text-transform: uppercase;
+      margin-top: 30px;
+    }
+    h2:hover { color: #f39c12; letter-spacing: 2px; }
+
+    p, li {
+      font-size: 1.1em;
+      line-height: 1.6em;
+      transition: all 0.6s ease;
+    }
+    li:hover { color: #f39c12; transform: translateX(10px) scale(1.05); }
+
+    details {
+      margin: 12px 0;
+      background: rgba(255,255,255,0.05);
+      padding: 14px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: transform 0.4s ease, background 0.4s ease, box-shadow 0.4s ease;
+      overflow: hidden;
+    }
+    details:hover {
+      transform: translateX(12px);
+      background: rgba(230,126,34,0.2);
+      box-shadow: 0 0 12px rgba(230,126,34,0.6);
+    }
+    summary {
+      font-weight: bold;
+      font-size: 1.2em;
+      color: #e67e22;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: color 0.3s ease;
+    }
+    summary:hover { color: #f39c12; }
+    summary span.icon {
+      font-size: 1.3em;
+      transition: transform 0.3s ease;
+    }
+    details[open] summary span.icon { transform: rotate(180deg); }
+    details ul {
+      margin-top: 10px;
+      padding-left: 20px;
+      max-height: 0;
+      opacity: 0;
+      overflow: hidden;
+      transition: all 0.5s ease;
+    }
+    details[open] ul { max-height: 500px; opacity: 1; }
+
+    a.btn {
+      display: inline-block;
+      padding: 14px 22px;
+      margin-top: 25px;
+      background: linear-gradient(90deg, #e67e22, #d35400);
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+      transition: 0.3s;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.5);
+    }
+    a.btn:hover {
+      background: linear-gradient(90deg, #d35400, #e67e22);
+      transform: scale(1.12);
+    }
+
+    .badge {
+      background: #f39c12;
+      color: #fff;
+      font-size: 0.8em;
+      padding: 2px 6px;
+      border-radius: 5px;
+      margin-left: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>JavaScript Skills</h1>
+    <p>Core JS | DOM | Events | Async | ES6+ Features</p>
+  </header>
+
+  <section>
+    <h2>About My JS Skills</h2>
+    <p>Proficient in JavaScript, with deep knowledge of ES6+, DOM manipulation, asynchronous programming, and building interactive web applications.</p>
+
+    <h2>Topics Covered</h2>
+
+    <details>
+      <summary><span class="icon">📘</span> 1. Introduction</summary>
+      <ul>
+        <li>JavaScript Basics</li>
+        <li>Variables & Data Types</li>
+        <li>Operators & Expressions</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🔤</span> 2. String</summary>
+      <ul>
+        <li>String Methods</li>
+        <li>Template Literals</li>
+        <li>String Manipulation</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">⚙️</span> 3. Function</summary>
+      <ul>
+        <li>Function Declaration & Expression</li>
+        <li>Arrow Functions</li>
+        <li>Callbacks</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🗂️</span> 4. Array</summary>
+      <ul>
+        <li>Array Methods</li>
+        <li>Map, Filter, Reduce</li>
+        <li>Spread & Rest Operators</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🛠️</span> 5. Object</summary>
+      <ul>
+        <li>Object Properties & Methods</li>
+        <li>Destructuring</li>
+        <li>Object.keys & Object.values</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🔗</span> 6. JSON</summary>
+      <ul>
+        <li>JSON.parse & JSON.stringify</li>
+        <li>Working with API Data</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🔧</span> 7. Destructure</summary>
+      <ul>
+        <li>Array & Object Destructuring</li>
+        <li>Default Values</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🔁</span> 8. Looping</summary>
+      <ul>
+        <li>for, while, do-while</li>
+        <li>for..of & for..in</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🌐</span> 9. DOM</summary>
+      <ul>
+        <li>Query Selector</li>
+        <li>Event Listeners</li>
+        <li>DOM Manipulation</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">⚡</span> 10. Event</summary>
+      <ul>
+        <li>Click, Hover, Input Events</li>
+        <li>Event Bubbling & Delegation</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">⏱️</span> 11. Timing Function</summary>
+      <ul>
+        <li>setTimeout, setInterval</li>
+        <li>clearTimeout, clearInterval</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">📅</span> 12. Date & Math</summary>
+      <ul>
+        <li>Date Object</li>
+        <li>Math Methods</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">💡</span> 13. Promise</summary>
+      <ul>
+        <li>Promise Basics</li>
+        <li>Chaining & Error Handling</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🌐</span> 14. Fetch</summary>
+      <ul>
+        <li>AJAX & Fetch API</li>
+        <li>Handling JSON Data</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🔄</span> 15. Async/Await</summary>
+      <ul>
+        <li>Async Functions</li>
+        <li>Await Keyword</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🏫</span> 16. Class</summary>
+      <ul>
+        <li>Class Declaration & Constructor</li>
+        <li>Inheritance & Methods</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🧮</span> 17. Counter Project</summary>
+      <ul>
+        <li>Interactive Counter App</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary><span class="icon">🛒</span> Projects</summary>
+      <ul>
+        <li>Calculator App</li>
+        <li>Product Display</li>
+        <li>Weather App</li>
+      </ul>
+    </details>
+
+    <a class="btn" href="https://dharshini135-dev.github.io/DEVADHARSHINI-K/">⬅ Back to Profile</a>
+  </section>
+</body>
+</html>
