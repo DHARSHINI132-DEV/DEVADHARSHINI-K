@@ -52,7 +52,7 @@ Contributed to project execution and enhanced technical knowledge.
 ---
 
 ## 🏆 Certifications
-[![AI Tools](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI135-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)
+[![AI Tools](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)
 
 [![Android App Development](https://img.shields.io/badge/Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DHARSHINI135-DEV/DEVADHARSHINI-K/blob/main/certificates/android-app.pdf)
 
