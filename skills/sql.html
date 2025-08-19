@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SQL Skills – Devadharshini Kumaran</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: linear-gradient(135deg, #2c3e50, #3498db);
+      color: #f0f0f0;
+      animation: fadeIn 2s ease;
+    }
+    @keyframes fadeIn { from {opacity: 0;} to {opacity: 1;} }
+
+    header {
+      background: linear-gradient(90deg, #e67e22, #d35400);
+      padding: 40px;
+      text-align: center;
+      color: #fff;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+      animation: slideDown 1.5s ease;
+      position: relative;
+    }
+    @keyframes slideDown { from {transform: translateY(-100%); opacity:0;} to {transform: translateY(0); opacity:1;} }
+
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+      text-shadow: 2px 2px 12px rgba(0,0,0,0.7);
+      animation: glow 2s infinite alternate;
+    }
+    @keyframes glow {
+      from {text-shadow: 0 0 10px #f39c12, 0 0 20px #f39c12;}
+      to {text-shadow: 0 0 20px #e67e22, 0 0 40px #d35400;}
+    }
+
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+      display: inline-block;
+      color: #fff;
+      white-space: nowrap;
+    }
+
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      background: rgba(0,0,0,0.6);
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.7);
+      animation: zoomIn 1.5s ease;
+    }
+    @keyframes zoomIn { from {transform: scale(0.8); opacity:0;} to {transform: scale(1); opacity:1;} }
+
+    h2 {
+      color: #e67e22;
+      border-bottom: 3px solid #e67e22;
+      padding-bottom: 6px;
+      transition: color 0.3s ease, letter-spacing 0.3s ease;
+      text-transform: uppercase;
+    }
+    h2:hover { color: #f39c12; letter-spacing: 2px; }
+
+    p {
+      font-size: 1.1em;
+      line-height: 1.6em;
+      transition: all 0.6s ease;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 1.2s ease forwards;
+    }
+    @keyframes fadeUp { to {opacity:1; transform: translateY(0);} }
+    p:hover { color: #f39c12; text-shadow: 0 0 10px rgba(243,156,18,0.7); }
+
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin: 8px 0;
+      transition: transform 0.3s ease, color 0.3s ease;
+    }
+    li:hover { transform: translateX(10px) scale(1.05); color: #f39c12; }
+
+    a.btn {
+      display: inline-block;
+      padding: 14px 22px;
+      margin-top: 25px;
+      background: linear-gradient(90deg, #e67e22, #d35400);
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+      transition: 0.3s;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.5);
+    }
+    a.btn:hover {
+      background: linear-gradient(90deg, #d35400, #e67e22);
+      transform: scale(1.12);
+    }
+
+    .badge {
+      background: #f39c12;
+      color: #fff;
+      font-size: 0.8em;
+      padding: 2px 6px;
+      border-radius: 5px;
+      margin-left: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SQL Skills</h1>
+    <p>Database Design | Queries | Optimization | SQLPlus</p>
+  </header>
+  <section>
+    <h2>About My SQL Skills</h2>
+    <p>Strong command over database design and SQL queries, with hands-on experience in MySQL and SQLPlus for database management and querying.</p>
+
+    <h2>Highlights</h2>
+    <ul>
+      <li>DDL, DML, DQL commands <span class="badge">SQLPlus</span></li>
+      <li>Joins, subqueries, indexing <span class="badge">SQLPlus</span></li>
+      <li>Normalization & optimization <span class="badge">SQLPlus</span></li>
+      <li>Query performance tuning <span class="badge">SQLPlus</span></li>
+    </ul>
+
+    <h2>App Used</h2>
+    <p>All SQL operations and queries are performed using <strong>SQLPlus</strong>, providing a professional environment for database development.</p>
+
+    <a class="btn" href="../README.md">⬅ Back</a>
+  </section>
+</body>
+</html>
