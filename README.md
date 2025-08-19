@@ -26,16 +26,6 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/javascript.html)
 
-[![Servlets & JSP](https://img.shields.io/badge/Servlets%20%26%20JSP-2F4F4F?style=for-the-badge&logo=java&logoColor=white)](https://DHARSHINI135-DEV.github.io/DEVADHARSHINI-K/skills/servlets-jsp.html)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
 **Tools & Software**  
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  
