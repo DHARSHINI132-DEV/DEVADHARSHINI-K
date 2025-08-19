@@ -53,15 +53,15 @@ Contributed to project execution and enhanced technical knowledge.
 
 ## 🏆 Certifications
 
-[![AI Tools and ChatGpt Workshop](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)  – Certificate of Completion on: *AI Tools and ChatGPT Workshop* 
+[![AI Tools and ChatGpt Workshop](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)
 
-[![Android App Development](https://img.shields.io/badge/Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/android-app.pdf)  – Certificate of Completion on: *Android App Development for Beginners*  
+[![Android App Development for Beginners](https://img.shields.io/badge/Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/android-app.pdf)  
 
-[![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/uiux.pdf)  – Certificate of Completion on: *Introduction to Graphic Design: Basics of UI/UX*  
+[![Introduction to Graphic Design: Basics of UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/uiux.pdf)
 
-[![Robotic Process Automation Development](https://img.shields.io/badge/Robotics%20Process%20Automation-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/robotic.pdf)  – Certificate of Completion on: *Naan Mudhalvan – Robotic Process Automation Development Foundation Course*
+[![Robotic Process Automation Development](https://img.shields.io/badge/Robotics%20Process%20Automation-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/robotic.pdf)  
 
-[![GATE 2024](https://img.shields.io/badge/GATE%202024-FF5722?style=for-the-badge&logo=gradle&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/gate.png)  – *Graduate Aptitude Test in Engineering (GATE) 2024 – Score: 15.07*  
+[![GATE 2024](https://img.shields.io/badge/GATE%202024-FF5722?style=for-the-badge&logo=gradle&logoColor=white)](https://github.com/DHARSHINI132-DEV/DEVADHARSHINI-K/blob/main/certificates/gate.png) 
 
 ---
 
