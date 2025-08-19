@@ -52,6 +52,14 @@ Contributed to project execution and enhanced technical knowledge.
 ---
 
 ## 🏆 Certifications
+[![AI Tools](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI135-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)
+
+[![Android App Development](https://img.shields.io/badge/Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DHARSHINI135-DEV/DEVADHARSHINI-K/blob/main/certificates/android-app.pdf)
+
+[![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://github.com/DHARSHINI135-DEV/DEVADHARSHINI-K/blob/main/certificates/uiux.pdf)
+
+[![RPA](https://img.shields.io/badge/Robotics%20Process%20Automation-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/DHARSHINI135-DEV/DEVADHARSHINI-K/blob/main/certificates/rpa.pdf)
+
 
 [![AI Tools](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/DHARSHINI135-DEV/DEVADHARSHINI-K/blob/main/certificates/ai-tools.pdf)  
 [![Android App Development](https://img.shields.io/badge/Android%20App%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/your-username/your-username/blob/main/certificates/android-app.pdf)  
